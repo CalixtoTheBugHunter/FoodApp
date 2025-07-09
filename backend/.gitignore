@@ -12,10 +12,11 @@ dist
 dist-ssr
 *.local
 
-*.env
-*.env.example
-*.env.local
-*.env.staging
+# Environment files temporarily allowed for security fix
+# *.env
+# *.env.example
+# *.env.local
+# *.env.staging
 
 # Editor directories and files
 .vscode/*
